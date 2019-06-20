@@ -1,0 +1,42 @@
+body {
+	background-color: #fffff;
+	font-family: Calibri, Myriad;
+}
+
+#main {
+	margin: auto;
+	padding: 20px;
+}
+.export{
+	float: left;
+    margin: auto;
+	width: 30%;
+ }
+
+* {
+  box-sizing: border-box;
+}
+
+#piechart{
+
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 45%;
+  margin: 10px 0px 0px 20px;
+
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+#summarydiv {
+background-color: #f79646;
+
+}

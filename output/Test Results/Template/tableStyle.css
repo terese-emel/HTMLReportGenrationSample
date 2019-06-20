@@ -1,0 +1,75 @@
+table.testreport {
+	margin: 25px 25px;
+	width: 1000px;
+	border-collapse: collapse;
+	border-style: solid;
+}
+
+table.testreport caption {
+	background-color: #f79646;
+	color: #fff;
+	font-size: x-large;
+	font-weight: bold;
+	letter-spacing: .3em;
+}
+
+table.testreport th {
+ padding:5px 5px 5px 5px;
+	text-align: left;
+	background-color: #5cb85c;
+	color: white;
+	border-style: solid;
+	border-color: white;
+}
+
+table.testreport tr:nth-child(even){
+background-color: #f2f2f2;}
+
+
+
+table.testreport th, table.testreport td {
+	padding: 3px;
+	border-style: solid;
+	border-color: white;
+}
+
+table.testreport td {
+	text-align: left;
+	color: black;
+
+}
+
+table.testreport tbody th {
+	text-align: center;
+	font-weight: normal;
+
+
+}
+table.summarytable {
+	margin: 12px 10px 10px 12px;
+    border-style: solid;
+	border-color: white;
+	width:95%;
+
+}
+
+.summarytable caption {
+	background-color: #5cb85c;
+	color: #fff;
+	font-size: x-large;
+	font-weight: bold;
+	letter-spacing: .3em;
+	border-style: solid;
+    	border-color: white;
+}
+.summarytable thead th {
+	text-align: left;
+	font-weight: bold;
+	color: #fff;
+}
+
+.summarytable td {
+	text-align: left;
+	font-weight: bold;
+	color: #fff;
+}

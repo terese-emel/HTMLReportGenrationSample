@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="613d6c09-e924-4e63-9402-5ba84b7e9497" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SimplePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="89" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/Test Results/2019-06-20/report_on_2019-06-20_15-13-45.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="48" column="54" selection-start-line="48" selection-start-column="54" selection-end-line="48" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/Test Results/Template/tableStyle.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="91">
+              <caret line="49" column="24" lean-forward="true" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/Test Results/Template/Report.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="51" column="33" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/Test Results/Template/TestReportStyle.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/Test Results/Template/tableExport.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;!-- INSERT SUMMARY RESULTS --&gt;</find>
+      <find>,</find>
+      <find>class=&quot;status&quot;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&lt;!-- INSERT_SUMMARY --&gt;</replace>
+      <replace>+</replace>
+      <replace>td</replace>
+      <replace>td id</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/output/report_on_1557906968113.html" />
+        <option value="$PROJECT_DIR$/output/mainScript.js" />
+        <option value="$PROJECT_DIR$/output/Template/mainScript.js" />
+        <option value="$PROJECT_DIR$/output/Template/stylefunctions/imagemodelStyle.css" />
+        <option value="$PROJECT_DIR$/output/Test Results/report_on_1557921003888.html" />
+        <option value="$PROJECT_DIR$/output/Test Results/report_on_1557922376695.html" />
+        <option value="$PROJECT_DIR$/output/Test Results/report_on_1558015092926.html" />
+        <option value="$PROJECT_DIR$/output/Template/stylefunctions/script.js" />
+        <option value="$PROJECT_DIR$/output/Test Results/report_on_1558016067490.html" />
+        <option value="$PROJECT_DIR$/output/Template/stylefunctions/TestReportStyle.css" />
+        <option value="$PROJECT_DIR$/output/Template/Report.html" />
+        <option value="$PROJECT_DIR$/output/Test Results/report_on_1558020755905.html" />
+        <option value="$PROJECT_DIR$/output/Test Results/stylefunctions/TestReportStyle.css" />
+        <option value="$PROJECT_DIR$/output/Test Results/report_on_1559136455479.html" />
+        <option value="$PROJECT_DIR$/output/Test Results/stylefunctions/tableStyle.css" />
+        <option value="$PROJECT_DIR$/output/Test Results/stylefunctions/script.js" />
+        <option value="$PROJECT_DIR$/output/Test Results/Report.html" />
+        <option value="$PROJECT_DIR$/output/Test Results/report_on_1559138270553.html" />
+        <option value="$PROJECT_DIR$/output/Test Results/report_on_1559139283479.html" />
+        <option value="$PROJECT_DIR$/output/Test Results/report_on_2019-05-31_12-21-56.html" />
+        <option value="$PROJECT_DIR$/output/Test Results/2019-05-31/report_on_2019-05-31_12-38-14.html" />
+        <option value="$PROJECT_DIR$/output/Test Results/2019-05-31/report_on_2019-05-31_14-47-25.html" />
+        <option value="$PROJECT_DIR$/output/Test Results/2019-05-31/report_on_2019-05-31_14-57-18.html" />
+        <option value="$PROJECT_DIR$/output/Test Results/2019-06-01/report_on_2019-06-01_16-45-18.html" />
+        <option value="$PROJECT_DIR$/output/Test Results/2019-06-03/report_on_2019-06-03_10-57-58.html" />
+        <option value="$PROJECT_DIR$/src/main/java/model/Result.java" />
+        <option value="$PROJECT_DIR$/output/Test Results/2019-06-03/report_on_2019-06-03_11-23-03.html" />
+        <option value="$PROJECT_DIR$/src/main/java/utility/Base.java" />
+        <option value="$PROJECT_DIR$/output/Test Results/2019-06-03/report_on_2019-06-03_11-54-46.html" />
+        <option value="$PROJECT_DIR$/src/main/java/TestFun.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/Summary.java" />
+        <option value="$PROJECT_DIR$/output/Test Results/Template/script.js" />
+        <option value="$PROJECT_DIR$/output/Test Results/Template/summaryTable.js" />
+        <option value="$PROJECT_DIR$/output/Test Results/2019-06-04/report_on_2019-06-04_16-18-25.html" />
+        <option value="$PROJECT_DIR$/output/Test Results/Template/chart.js" />
+        <option value="$PROJECT_DIR$/output/Test Results/Template/test.html" />
+        <option value="$PROJECT_DIR$/output/Test Results/Template/tableExport.js" />
+        <option value="$PROJECT_DIR$/src/main/java/utility/Email.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utility/Reporter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utility/ReportGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testEmail.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utility/EmailUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SSLEmail.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/output/Test Results/2019-06-20/report_on_2019-06-20_13-16-21.html" />
+        <option value="$PROJECT_DIR$/output/Test Results/2019-06-20/report_on_2019-06-20_15-09-02.html" />
+        <option value="$PROJECT_DIR$/output/Test Results/2019-06-20/report_on_2019-06-20_15-13-45.html" />
+        <option value="$PROJECT_DIR$/output/Test Results/Template/Report.html" />
+        <option value="$PROJECT_DIR$/output/Test Results/Template/TestReportStyle.css" />
+        <option value="$PROJECT_DIR$/output/Test Results/Template/tableStyle.css" />
+        <option value="$PROJECT_DIR$/src/main/java/SimplePage.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-12" />
+    <option name="width" value="1941" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+              <item name="Test Results" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+              <item name="Test Results" type="462c0819:PsiDirectoryNode" />
+              <item name="2019-06-20" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+              <item name="Test Results" type="462c0819:PsiDirectoryNode" />
+              <item name="Template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utility" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/output/Template/stylefunctions" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProject\TestProject\output\Template\stylefunctions" />
+      <recent name="E:\IdeaProject\TestProject\output" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaProject\TestProject\output\Test Results\Template" />
+      <recent name="E:\IdeaProject\TestProject\output\Test Results\Template\stylefunctions" />
+      <recent name="E:\IdeaProject\TestProject\output\Test Results" />
+      <recent name="E:\IdeaProject\TestProject\output\Template" />
+      <recent name="E:\IdeaProject\TestProject\output\Template\stylefunctions" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.SimplePage">
+    <configuration name="SSLEmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SSLEmail" />
+      <module name="TestProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleEmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleEmail" />
+      <module name="TestProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestFun" />
+      <module name="TestProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimplePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestProject" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SimplePage" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFun.main" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestProject" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestFun" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestFun" />
+      <item itemvalue="TestNG.SimplePage" />
+      <item itemvalue="TestNG.TestFun.main" />
+      <item itemvalue="Application.SSLEmail" />
+      <item itemvalue="Application.SimpleEmail" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SimplePage" />
+        <item itemvalue="Application.SimpleEmail" />
+        <item itemvalue="Application.SSLEmail" />
+        <item itemvalue="TestNG.TestFun.main" />
+        <item itemvalue="Application.TestFun" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SQLPlugin.ProjectConfiguration">
+    <queries />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\terese\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="613d6c09-e924-4e63-9402-5ba84b7e9497" name="Default Changelist" comment="" />
+      <created>1557219537292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557219537292</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SimplePage - 2019.06.04 at 16h 10m 47s.xml">
+      <configuration name="SimplePage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SimplePage - 2019.06.04 at 16h 11m 49s.xml">
+      <configuration name="SimplePage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SimplePage - 2019.06.04 at 16h 15m 32s.xml">
+      <configuration name="SimplePage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SimplePage - 2019.06.04 at 16h 17m 28s.xml">
+      <configuration name="SimplePage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SimplePage - 2019.06.04 at 16h 18m 29s.xml">
+      <configuration name="SimplePage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SimplePage - 2019.06.04 at 17h 48m 17s.xml">
+      <configuration name="SimplePage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SimplePage - 2019.06.20 at 13h 16m 33s.xml">
+      <configuration name="SimplePage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SimplePage - 2019.06.20 at 15h 08m 27s.xml">
+      <configuration name="SimplePage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SimplePage - 2019.06.20 at 15h 09m 18s.xml">
+      <configuration name="SimplePage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SimplePage - 2019.06.20 at 15h 13m 49s.xml">
+      <configuration name="SimplePage" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1294" height="688" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959481" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="DB Browser" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32733813" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39928058" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" weight="0.3291367" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="SQL" order="9" weight="0.3285968" />
+      <window_info anchor="bottom" id="DB Execution Console" order="10" />
+      <window_info anchor="bottom" id="Graph Database Console" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32733813" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Graph Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959481" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="DB Browser" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32733813" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39928058" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="SQL" order="9" weight="0.3285968" />
+      <window_info anchor="bottom" id="DB Execution Console" order="10" />
+      <window_info anchor="bottom" id="Graph Database Console" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32733813" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Graph Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-05-31/report_on_2019-05-31_14-05-19.html" />
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-05-31/report_on_2019-05-31_14-50-03.html" />
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-05-31/report_on_2019-05-31_14-47-25.html" />
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-05-31/report_on_2019-05-31_14-51-43.html" />
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-05-31/report_on_2019-05-31_14-57-18.html" />
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-05-31/report_on_2019-05-31_16-04-34.html" />
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-06-01/report_on_2019-06-01_16-37-24.html" />
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-06-01/report_on_2019-06-01_16-45-18.html" />
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-06-03/report_on_2019-06-03_10-57-58.html" />
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-06-03/report_on_2019-06-03_11-03-13.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+          <folding>
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-06-03/report_on_2019-06-03_11-23-03.html" />
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-06-03/report_on_2019-06-03_11-30-16.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/utility/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-06-03/report_on_2019-06-03_11-33-27.html" />
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-06-03/report_on_2019-06-03_11-53-12.html" />
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-06-03/report_on_2019-06-03_11-54-46.html" />
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-06-04/report_on_2019-06-04_10-10-18.html" />
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-06-04/report_on_2019-06-04_10-28-18.html" />
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-06-04/report_on_2019-06-04_10-49-20.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Summary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+          <folding>
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#672#673#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-06-04/report_on_2019-06-04_10-53-02.html" />
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-06-04/report_on_2019-06-04_11-07-30.html" />
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-06-04/report_on_2019-06-04_11-14-36.html" />
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-06-04/report_on_2019-06-04_11-17-32.html" />
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-06-04/report_on_2019-06-04_11-18-43.html" />
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-06-04/report_on_2019-06-04_16-10-40.html" />
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-06-04/report_on_2019-06-04_16-11-45.html" />
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-06-04/report_on_2019-06-04_16-15-25.html" />
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-06-04/report_on_2019-06-04_16-17-22.html" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="117" column="18" selection-start-line="117" selection-start-column="18" selection-end-line="117" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Test Results/Template/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Test Results/Template/summaryTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Test Results/Template/chart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="15" selection-start-line="15" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Test Results/Template/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="52" selection-end-column="13" />
+          <folding>
+            <element signature="n#script#1;n#head#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-06-04/report_on_2019-06-04_16-18-25.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Test Results/Template/tableExport.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TestFun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utility/EmailUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-442">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SimpleEmail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/javamail-samples/sendfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="55" selection-end-line="142" />
+          <folding>
+            <element signature="e#0#4820#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-06-20/report_on_2019-06-20_13-16-21.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="95" column="15" selection-start-line="95" selection-start-column="15" selection-end-line="95" selection-end-column="15" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-06-20/report_on_2019-06-20_15-09-02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1272">
+          <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utility/TakeScreenshot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utility/ReportGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Test Results/2019-06-20/report_on_2019-06-20_15-13-45.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="48" column="54" selection-start-line="48" selection-start-column="54" selection-end-line="48" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Test Results/Template/Report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="51" column="33" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Test Results/Template/TestReportStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Test Results/Template/tableStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="49" column="24" lean-forward="true" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SimplePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="89" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
